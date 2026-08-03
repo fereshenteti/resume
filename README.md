@@ -1,7 +1,7 @@
 ![Fares Avatar](fares-avatar.png "Fares Avatar")
 # Fares HENTATI
 
-## Senior Front-End Engineer & UI/UX/Brand Designer *(7+ years exp.)*
+## Senior Front-End Engineer & UI/UX/Brand Designer *(8+ years exp.)*
 
 **Email:** feres.henteti@gmail.com  
 **LinkedIn:** https://linkedin.com/in/fareshentati  
@@ -12,7 +12,7 @@
 
 # ABOUT ME
 
-Senior Front-End Engineer and UI/UX Designer with 7+ years of experience, I craft modern, intuitive, user-centered interfaces by blending technical expertise (Angular, React, Next.js) with a strong eye for design.
+Senior Front-End Engineer and UI/UX Designer with 8+ years of experience, I craft modern, intuitive, user-centered interfaces by blending technical expertise (Angular, React, Next.js) with a strong eye for design.
 
 I specialize in turning complex business requirements into seamless, high-performance, and accessible digital experiences.
 
