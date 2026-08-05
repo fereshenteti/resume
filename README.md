@@ -3,9 +3,9 @@
 
 ## Senior Front-End Engineer & UI/UX/Brand Designer *(8+ years exp.)*
 
-**Email:** feres.henteti@gmail.com  
-**LinkedIn:** https://linkedin.com/in/fareshentati  
-**Portfolio:** https://fereshenteti.github.io  
+**Email:** [feres.henteti@gmail.com](mailto:feres.henteti@gmail.com)  
+**LinkedIn:** [https://linkedin.com/in/fareshentati](https://linkedin.com/in/fareshentati)  
+**Portfolio:** [https://fereshenteti.github.io](https://fereshenteti.github.io)  
 **Location:** Paris, France
 
 ---
@@ -144,9 +144,9 @@ Higher Institute of Computer Science & Multimedia of Sfax
 
 # ONLINE PRESENCE
 
-- https://fereshenteti.github.io
-- https://linkedin.com/in/fareshentati
-- https://dribbble.com/fereshenteti
-- https://medium.com/@fereshenteti
-- https://github.com/fereshenteti
-- https://npmjs.com/~feres.henteti
+- [https://fereshenteti.github.io](https://fereshenteti.github.io)
+- [https://linkedin.com/in/fareshentati](https://linkedin.com/in/fareshentati)
+- [https://dribbble.com/fereshenteti](https://dribbble.com/fereshenteti)
+- [https://medium.com/@fereshenteti](https://medium.com/@fereshenteti)
+- [https://github.com/fereshenteti](https://github.com/fereshenteti)
+- [https://npmjs.com/~feres.henteti](https://npmjs.com/~feres.henteti)
